@@ -1,3 +1,5 @@
+![](Dana Banner.gif)
+
 <h1> Hi - I'm Dana!</h1>
 
 * Education: MS BA student at Saunders College of Business at RIT - graduating May 2022
