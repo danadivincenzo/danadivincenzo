@@ -1,4 +1,4 @@
-![](Dana Banner.gif)
+![](Dana-Banner.gif)
 
 <h1> Hi - I'm Dana!</h1>
 
