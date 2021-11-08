@@ -13,7 +13,7 @@
 
 <h2> In the Past I've Learned... </h2>
 
-:ballot_box_with_check: MGIS 650 - Intro Data Analytics & Bus Intelligence
+:ballot_box_with_check: MGIS 650 - Intro Data Analytics & Business Intelligence
 
 :ballot_box_with_check: BANA 680 - Data Management for Business Analysts
 
