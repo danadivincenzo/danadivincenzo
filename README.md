@@ -9,13 +9,13 @@
 
 :hourglass_flowing_sand: MGIS 725 - Data Management and Analytics
 
-:hourglass_flowing_sand: ACCT 745 - Acctg Info. & Analytics
+:hourglass_flowing_sand: ACCT 745 - Accounting Info. & Analytics
 
 <h2> In the Past I've Learned... </h2>
 
-:ballot_box_with_check: MGIS 650 - Intro Data Anatcs & Bus Intel
+:ballot_box_with_check: MGIS 650 - Intro Data Analytics & Bus Intelligence
 
-:ballot_box_with_check: BANA 680 - Data Mgmt for Business Anlyts
+:ballot_box_with_check: BANA 680 - Data Management for Business Analysts
 
 :ballot_box_with_check: BANA 780 - Advanced Business Analytics
 
