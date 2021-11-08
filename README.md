@@ -1,4 +1,4 @@
-![](Dana-Banner.gif)
+![Dana Medium Gif](https://github.com/danadivincenzo/danadivincenzo/blob/main/Dana%20Banner.gif)
 
 <h1> Hi - I'm Dana!</h1>
 
