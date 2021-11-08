@@ -2,7 +2,7 @@
 
 <h2> Hi :wave: - I'm Dana!</h2>
 
-* Education: MS BA student at Saunders College of Business at RIT - graduating May 2022
+* Education: MS BA student at the Saunders College of Business at RIT - graduating May 2022
 * Work: Currently working as a business analyst at LincWare
 
 <h2> I'm Currently Learning... </h2>
