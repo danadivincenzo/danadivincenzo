@@ -40,5 +40,3 @@
 
 <h2> About Dana :two_hearts:</h2>
 I'm a graduate student living in Manhattan, NY. Outside of work and school, I'm passionate about fitness, good food, and strong coffee. I love to spend my free time thrift shopping and exploring NYC, and if I'm too tired I'm always happy to stay at home with my cat. I'd love to connect with you!
-
-Reach me at:
