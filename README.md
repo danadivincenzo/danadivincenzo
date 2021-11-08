@@ -20,6 +20,16 @@
 * BANA 785 - Business Analytics Experience
 
 
+<h2> Technologies and Tools </h2>
+
+* Python
+* R
+* SQL (Oracle SQL, PL/SQL)
+* Jupyter Notebook
+* Tableau
+* Google Datastudio
+
+...more coming soon!
 
 
 <h2> About Dana </h2>
