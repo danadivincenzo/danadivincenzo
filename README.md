@@ -1,5 +1,3 @@
-![Dana Medium Gif](https://github.com/danadivincenzo/danadivincenzo/blob/main/Dana%20GitHub%20Banner%20Purple.gif)
-
 <h2> Hi :wave: - I'm Dana!</h2>
 
 * Education: MS BA student at the Saunders College of Business at RIT - graduating May 2022
